@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>NC13Board</artifactId>
+    <artifactId>nc13-java-mvc-board-practice</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
